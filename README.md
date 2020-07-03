@@ -5,9 +5,11 @@
 O case compoe duas apis, sendo elas :
 
 Api cat-db 
+
 É responsavel por consumir as raças api publica (The cat api) e salvar raças, origem dos gatos, temperamento e descrição em um banco sqlite3.
 
 Api lista_todas_racas
+
 É responsavel por consumir as raças api publica (The cat api) , e lista todas as raças.
 
 Api cat-api-dash 
