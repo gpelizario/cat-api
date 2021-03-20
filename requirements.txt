@@ -1,4 +1,4 @@
 # To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
 flask==1.1.1
-jinja2==2.11.1
+jinja2==2.11.3
 Flask-MonitoringDashboard==3.0.9
